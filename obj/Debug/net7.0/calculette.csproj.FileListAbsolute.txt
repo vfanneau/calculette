@@ -1,0 +1,15 @@
+C:\Users\victo\WCS_exos_code\quetes\calculette\obj\Debug\net7.0\calculette.csproj.AssemblyReference.cache
+C:\Users\victo\WCS_exos_code\quetes\calculette\obj\Debug\net7.0\calculette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\WCS_exos_code\quetes\calculette\obj\Debug\net7.0\calculette.AssemblyInfoInputs.cache
+C:\Users\victo\WCS_exos_code\quetes\calculette\obj\Debug\net7.0\calculette.AssemblyInfo.cs
+C:\Users\victo\WCS_exos_code\quetes\calculette\obj\Debug\net7.0\calculette.csproj.CoreCompileInputs.cache
+C:\Users\victo\WCS_exos_code\quetes\calculette\bin\Debug\net7.0\calculette.exe
+C:\Users\victo\WCS_exos_code\quetes\calculette\bin\Debug\net7.0\calculette.deps.json
+C:\Users\victo\WCS_exos_code\quetes\calculette\bin\Debug\net7.0\calculette.runtimeconfig.json
+C:\Users\victo\WCS_exos_code\quetes\calculette\bin\Debug\net7.0\calculette.dll
+C:\Users\victo\WCS_exos_code\quetes\calculette\bin\Debug\net7.0\calculette.pdb
+C:\Users\victo\WCS_exos_code\quetes\calculette\obj\Debug\net7.0\calculette.dll
+C:\Users\victo\WCS_exos_code\quetes\calculette\obj\Debug\net7.0\refint\calculette.dll
+C:\Users\victo\WCS_exos_code\quetes\calculette\obj\Debug\net7.0\calculette.pdb
+C:\Users\victo\WCS_exos_code\quetes\calculette\obj\Debug\net7.0\calculette.genruntimeconfig.cache
+C:\Users\victo\WCS_exos_code\quetes\calculette\obj\Debug\net7.0\ref\calculette.dll
